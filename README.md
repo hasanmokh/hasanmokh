@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hassan+Mokhtar+👋;I'm+a+🚀+Backend+.NET+Developer+🚀;Welcome+to+my+Github!&center=true&size=30" alt="Hi, I'm Hassan 👋 I'm a 🚀 Backend Developer 🚀">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&lines=Hi,+I'm+Hassan+Mokhtar;I'm+a+Backend+.NET+Developer;Welcome+to+my+Github!" alt="Hi, I'm Hassan 👋 I'm a 🚀 Backend Developer 🚀">
   </a>
 </p>
 
@@ -31,8 +31,8 @@ Many thanks to the incredible teammates I've worked with on academic and profess
 
 <p align="center">
 <!-- MENTIONS-LIST:START -->
-<a href="https://github.com/mohamedwalid24636"><img src="https://github.com/mohamedwalid24636.png?size=96" alt="Mohamed Walid" width="96px" height="96px" /></a>
-<a href="https://github.com/Gamal820"><img src="https://github.com/Gamal820.png?size=96" alt="Gamal" width="96px" height="96px" /></a>
-<a href="https://github.com/hasanmokh"><img src="https://img.icons8.com/fluent/96/000000/user-group-man-man.png" alt="Teammates Placeholder" width="96px" height="96px" /></a>
+<a href="https://github.com/mohamedwalid24636"><img src="https://avatars.githubusercontent.com/mohamedwalid24636?s=96" alt="Mohamed Walid" width="96px" height="96px" style="border-radius: 50%;" /></a>
+<a href="https://github.com/Gamal820"><img src="https://avatars.githubusercontent.com/Gamal820?s=96" alt="Gamal" width="96px" height="96px" style="border-radius: 50%;" /></a>
+<a href="https://github.com/hasanmokh"><img src="https://avatars.githubusercontent.com/hasanmokh?s=96" alt="Hassan Mokhtar" width="96px" height="96px" style="border-radius: 50%;" /></a>
 <!-- MENTIONS-LIST:END -->
 </p>
