@@ -1,74 +1,122 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=hasanmokh&color=blue&style=flat">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;This+is+Hassan+Mokhtar....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassan-mokhtar-52402a282/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=0077B5">
-  </a>
-  <a href="https://github.com/hasanmokh">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white">
-  </a>
-</p>
-<br>
-<p align="center">
-  Hi, I'm Hassan Mokhtar Ateek, Software Engineer & Backend Developer from Egypt 🇪🇬
-  <br>
-  <br>
-  🎓 Graduated from Misr University for Science and Technology (Computer Science, Class of 2026)
-  <br>
-  💼 Completed backend development internships at ITI and EraSoft
-  <br>
-  💻 Passionate about algorithmic problem-solving and competitive programming using C++
-  <br>
-  📚 Focused on Clean Architecture, SOLID principles, and building robust Web APIs with ASP.NET Core
-  <br>
-  🚀 Developing my independent logistics application, Sheela (شيلة)
-  <br>
-  📍 Based in: 6th of October City, Giza
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-<hr>
+<!--
+How to make this gif ?
 
-### 💻 Languages
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
-![C++](https://img.shields.io/badge/-C++-000?logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-000?logo=csharp&logoColor=239120)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql&logoColor=4479A1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=1572B6)
+## :memo: Blog
 
-### 🛠 Technologies & Tools
+<!-- BLOG-POST-LIST:START -->
+- [💫 Bluesky Creator - @alexdaubois: Vulcain Security Update](https://blog.darkwood.com/article/bluesky-creator-alexdaubois-vulcain-security-update)
+- [💫 Hacker News Creator - NYC may require landlords and realtors to disclose the use of AI in listings](https://blog.darkwood.com/article/hacker-news-creator-nyc-may-require-landlords-and-realtors-to-disclose-the-use-of-ai-in-listings)
+- [💫 Reddit Creator - r/opensource: canid: contact card/link-in-bio that lives in a URL](https://blog.darkwood.com/article/reddit-creator-r-opensource-canid-contact-card-link-in-bio-that-lives-in-a-url)
+- [💫 arXiv Creator - cs.AI: RoboTTT: Context Scaling for Robot Policies](https://blog.darkwood.com/article/arxiv-creator-cs-ai-robottt-context-scaling-for-robot-policies)
+- [💫 Bonzai Creator - Intiméa Studio](https://blog.darkwood.com/article/bonzai-creator-intimea-studio)
+<!-- BLOG-POST-LIST:END -->
 
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-000?logo=dotnet&logoColor=512BD4)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnet&logoColor=512BD4)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-000?logo=nuget&logoColor=004880)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?logo=microsoft-sql-server&logoColor=CC2927)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu&logoColor=E95420)
-![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?logo=visual-studio&logoColor=5C2D91)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=007ACC)
+## :link: Links
 
-### 🚀 Backend & Software Engineering Projects
+<p align="center">
+  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discord.gg/TDkvp3nn3j"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
+  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://matyo91.substack.com"><img src="https://img.icons8.com/ios-filled/96/substack.png" alt="substack"/></a>
+  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
+  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a>
+  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
+  <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
+  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="https://tripadvisor.com/members/matyo91"><img src="https://img.icons8.com/color/96/000000/tripadvisor.png" alt="tripadvisor"/></a>
+  <a href="https://www.bandcamp.com/matyo91"><img src="https://img.icons8.com/nolan/96/bandcamp-button.png" alt="bandcamp"/></a>
+  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://connect.symfony.com/profile/matyo91"><img src="https://img.icons8.com/color/96/000000/symfony.png" alt="symfony"/></a>
+  <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
+  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+  <a href="https://git-stars.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
+  <a href="https://mastodon.social/@matyo91"><img src="https://img.icons8.com/windows/96/mastodon.png" alt="mastodon"/></a>
+  <a href="https://bsky.app/profile/matyo91.bsky.social"><img src="https://img.icons8.com/emoji/96/blue-square-emoji.png" alt="bluesky"/></a>
+  <a href="https://www.tiktok.com/@matyo91_"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
+  <a href="https://www.producthunt.com/@matyo91"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
+  <a href="https://calendly.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/calendar.png" alt="calendly"/></a>
+  <a href="https://www.indiehackers.com/matyo91"><img src="https://img.icons8.com/sf-regular-filled/96/bookmark.png" alt="indiehackers"/></a>
+  <a href="https://dev.to/matyo91"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
+  <a href="https://webflow.com/@matyo91"><img src="https://img.icons8.com/color/96/webflow.png" alt="webflow"/></a>
+  <a href="https://www.polywork.com/matyo91"><img src="https://img.icons8.com/fluency-systems-filled/96/add-bookmark.png" alt="polywork"/></a>
+  <a href="https://opensea.io/matyo91"><img src="https://img.icons8.com/color/96/opensea.png" alt="opensea"/></a>
+  <a href="https://huggingface.co/matyo91"><img src="https://img.icons8.com/emoji/96/hugging-face.png" alt="huggingface"/></a>
+  <a href="https://speakerdeck.com/matyo91"><img src="https://img.icons8.com/windows/96/speaker-deck.png" alt="huggingface"/></a>
+  <a href="https://www.chess.com/member/matyo91"><img src="https://img.icons8.com/color/96/knight.png" alt="chess"/></a>
+  <a href="mailto:@matyo91:matrix.org"><img src="https://img.icons8.com/ios/96/matrix-logo.png" alt="matrix"/></a>
+  <a href="https://matyo91.newgrounds.com"><img src="https://img.ngfiles.com/misc/tank_logo_medium.gif" alt="Newgrounds" width="96" height="96" /></a>
+  <a href="https://www.goodreads.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/goodreads.png" alt="Goodreads" /></a>
+  <a href="https://beacons.ai/matyo91"><img src="https://github.com/matyo91/matyo91/raw/main/assets/beacons_ai.jpg" alt="Beacons AI" width="96" height="96" /></a>
+</p>
 
-[![](https://img.shields.io/badge/-🧠%20CranioAI%20(Graduation%20Project)-000)](https://github.com/hasanmokh/Graduation_Project_CranioAI)
-[![](https://img.shields.io/badge/-⚙️%20CranioAi%20API-000)](https://github.com/hasanmokh/CranioAi)
-[![](https://img.shields.io/badge/-🧪%20Laboratories%20Management%20System-000)](https://github.com/mohamedwalid24636/LaboratoriesManagementSystem)
-[![](https://img.shields.io/badge/-🏆%20Championship%20Control%20System-000)](https://github.com/Gamal820/Championship-Control-System)
-[![](https://img.shields.io/badge/-🚚%20Sheela%20(شيلة)-000)](#)
+Icons by [https://icons8.com](https://icons8.com)
 
-<br>
+## :wave: Mentions
 
-<div align="center">
-  <a href="https://github.com/hasanmokh">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hasanmokh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmokh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  </a>
-</div>
+Many thanks from people that referenced this repository here.
+
+<p align="center">
+<!-- MENTIONS-LIST:START -->
+<a href="https://github.com/18-RAJAT/18-RAJAT"><img src="https://github.com/18-RAJAT.png?size=96" alt="18-RAJAT" width="96px" height="96px" /></a>
+<a href="https://github.com/1998-sys/1998-sys"><img src="https://github.com/1998-sys.png?size=96" alt="1998-sys" width="96px" height="96px" /></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://github.com/abhisheknaiidu.png?size=96" alt="abhisheknaiidu" width="96px" height="96px" /></a>
+<a href="https://github.com/alvaroreis/alvaroreis"><img src="https://github.com/alvaroreis.png?size=96" alt="alvaroreis" width="96px" height="96px" /></a>
+<a href="https://github.com/Andherline/Andherline"><img src="https://github.com/Andherline.png?size=96" alt="Andherline" width="96px" height="96px" /></a>
+<a href="https://github.com/babboe1/babboe1"><img src="https://github.com/babboe1.png?size=96" alt="babboe1" width="96px" height="96px" /></a>
+<a href="https://github.com/BrnCode/BrnCode"><img src="https://github.com/BrnCode.png?size=96" alt="BrnCode" width="96px" height="96px" /></a>
+<a href="https://github.com/Correia-jpv/fucking-awesome-github-profile-readme"><img src="https://github.com/Correia-jpv.png?size=96" alt="Correia-jpv" width="96px" height="96px" /></a>
+<a href="https://github.com/DhenSouza/DhenSouza"><img src="https://github.com/DhenSouza.png?size=96" alt="DhenSouza" width="96px" height="96px" /></a>
+<a href="https://github.com/EvanioLima/EvanioLima"><img src="https://github.com/EvanioLima.png?size=96" alt="EvanioLima" width="96px" height="96px" /></a>
+<a href="https://github.com/Fernanda-Dantas/Fernanda-Dantas"><img src="https://github.com/Fernanda-Dantas.png?size=96" alt="Fernanda-Dantas" width="96px" height="96px" /></a>
+<a href="https://github.com/girishmallya123/girishmallya123"><img src="https://github.com/girishmallya123.png?size=96" alt="girishmallya123" width="96px" height="96px" /></a>
+<a href="https://github.com/gustavocargc/gustavocargc"><img src="https://github.com/gustavocargc.png?size=96" alt="gustavocargc" width="96px" height="96px" /></a>
+<a href="https://github.com/iurygoulart23/iurygoulart23"><img src="https://github.com/iurygoulart23.png?size=96" alt="iurygoulart23" width="96px" height="96px" /></a>
+<a href="https://github.com/IzabellaSouza/IzabellaSouza"><img src="https://github.com/IzabellaSouza.png?size=96" alt="IzabellaSouza" width="96px" height="96px" /></a>
+<a href="https://github.com/jpazv/jpazv"><img src="https://github.com/jpazv.png?size=96" alt="jpazv" width="96px" height="96px" /></a>
+<a href="https://www.youtube.com/watch?v=9RZblj1uQ_0&t=2715s"><img src="https://github.com/kterra.png?size=96" alt="kterra" width="96px" height="96px" /></a>
+<a href="https://github.com/Lima-Paloma/Lima-Paloma"><img src="https://github.com/Lima-Paloma.png?size=96" alt="Lima-Paloma" width="96px" height="96px" /></a>
+<a href="https://github.com/Mayborg121"><img src="https://github.com/Mayborg121.png?size=96" alt="Mayborg121" width="96px" height="96px" /></a>
+<a href="https://github.com/mdLn1/mdLn1"><img src="https://github.com/mdLn1.png?size=96" alt="mdLn1" width="96px" height="96px" /></a>
+<a href="https://github.com/minoveaz/github-perfil-readme-asombrosos"><img src="https://github.com/minoveaz.png?size=96" alt="minoveaz" width="96px" height="96px" /></a>
+<a href="https://github.com/mmart8997/mmart8997"><img src="https://github.com/mmart8997.png?size=96" alt="mmart8997" width="96px" height="96px" /></a>
+<a href="https://github.com/nivea-dantas/nivea-dantas"><img src="https://github.com/nivea-dantas.png?size=96" alt="nivea-dantas" width="96px" height="96px" /></a>
+<a href="https://github.com/PamelaRondina/step-by-step"><img src="https://github.com/PamelaRondina.png?size=96" alt="PamelaRondina" width="96px" height="96px" /></a>
+<a href="https://github.com/Parafernalha/Parafernalha"><img src="https://github.com/Parafernalha.png?size=96" alt="Parafernalha" width="96px" height="96px" /></a>
+<a href="https://github.com/pmrjayawardena"><img src="https://github.com/pmrjayawardena.png?size=96" alt="pmrjayawardena" width="96px" height="96px" /></a>
+<a href="https://github.com/Pranav-MSK"><img src="https://github.com/Pranav-MSK.png?size=96" alt="Pranav-MSK" width="96px" height="96px" /></a>
+<a href="https://github.com/RaFrancelino/RaFrancelino"><img src="https://github.com/RaFrancelino.png?size=96" alt="RaFrancelino" width="96px" height="96px" /></a>
+<a href="https://github.com/RahulParajuli/RahulParajuli"><img src="https://github.com/RahulParajuli.png?size=96" alt="RahulParajuli" width="96px" height="96px" /></a>
+<a href="https://github.com/ronaldocosta1/ronaldocosta1"><img src="https://github.com/ronaldocosta1.png?size=96" alt="ronaldocosta1" width="96px" height="96px" /></a>
+<a href="https://github.com/SabrinaLameiras"><img src="https://github.com/SabrinaLameiras.png?size=96" alt="SabrinaLameiras" width="96px" height="96px" /></a>
+<a href="https://github.com/senthilvs7/senthilvs7"><img src="https://github.com/senthilvs7.png?size=96" alt="senthilvs7" width="96px" height="96px" /></a>
+<a href="https://github.com/shawaizhaider"><img src="https://github.com/shawaizhaider.png?size=96" alt="shawaizhaider" width="96px" height="96px" /></a>
+<a href="https://github.com/Thaisramos13/Thaisramos13"><img src="https://github.com/Thaisramos13.png?size=96" alt="Thaisramos13" width="96px" height="96px" /></a>
+<a href="https://github.com/vagnereis/vagnereis"><img src="https://github.com/vagnereis.png?size=96" alt="vagnereis" width="96px" height="96px" /></a>
+<a href="https://github.com/vngabriel/vngabriel"><img src="https://github.com/vngabriel.png?size=96" alt="vngabriel" width="96px" height="96px" /></a>
+<a href="https://github.com/Wendel-Andrade/Wendel-Andrade"><img src="https://github.com/Wendel-Andrade.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" /></a>
+<a href="https://github.com/zacBkh/zacBkh"><img src="https://github.com/zacBkh.png?size=96" alt="zacBkh" width="96px" height="96px" /></a>
+<!-- MENTIONS-LIST:END -->
+</p>
+
+Don't see your link ? Then create an [issue](https://github.com/matyo91/matyo91/issues/new?assignees=matyo91&labels=documentation&template=add_mention.md&title=Add%20a%20new%20mention%20to%20README.md)
