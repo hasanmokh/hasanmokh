@@ -12,14 +12,14 @@ I love building practical solutions, from my graduation project [CranioAI](https
 
 ---
 
-## Featured Projects
-<!-- PROJECTS-LIST:START -->
-- [CranioAI: Machine Learning integrated .NET Web API Graduation Project](https://github.com/hasanmokh/Graduation_Project_CranioAI)
-- [CranioAi API: Core Backend System](https://github.com/hasanmokh/CranioAi)
-- [Laboratories Management System: 2nd Place University Software Competition](https://github.com/mohamedwalid24636/LaboratoriesManagementSystem)
-- [Championship Control System](https://github.com/Gamal820/Championship-Control-System)
-- [Sheela (شيلة): Independent Heavy Cargo Logistics Platform](#)
-<!-- PROJECTS-LIST:END -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack & Tools |
+| :--- | :--- | :--- |
+| 🧠 **[CranioAI](https://github.com/hasanmokh/Graduation_Project_CranioAI)** <br/> *(Graduation Project)* | A software engineering system integrating Machine Learning models into a robust backend.<br/> 🔗 *[Core Backend API Repo](https://github.com/hasanmokh/CranioAi)* | `C#` `ASP.NET Core Web API` `EF Core` `SQL Server` `Machine Learning` |
+| 🚚 **[Sheela (شيلة)](#)** <br/> *(Independent Startup)* | An independent logistics platform designed to facilitate heavy cargo regional transport. | `C#` `ASP.NET Core` `Clean Architecture` `SQL Server` `System Design` |
+| 🔬 **[Laboratories Management System](https://github.com/mohamedwalid24636/LaboratoriesManagementSystem)** | **2nd Place Winner (University Competition)**. Led a team of 9 members to develop a comprehensive lab management solution. | `C#` `.NET` `SQL Server` `Team Leadership` |
+| 🏆 **[Championship Control System](https://github.com/Gamal820/Championship-Control-System)** | A comprehensive system for managing and controlling sports championships and tournaments. | `C#` `.NET` `SQL Server` |
 
 ---
 
